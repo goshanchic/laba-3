@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,21): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,18): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,16): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных

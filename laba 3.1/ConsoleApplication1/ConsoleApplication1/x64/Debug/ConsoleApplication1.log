@@ -1,0 +1,92 @@
+﻿  ConsoleApplication1.cpp
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(8,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(8,42): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,26): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,22): error C2530: w: ссылки должны быть инициализированы
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,22): error C3531: w: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,31): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,16): error C2109: для индекса требуется массив или указатель
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,31): error C2109: для индекса требуется массив или указатель
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,41): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,26): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,22): error C2530: w: ссылки должны быть инициализированы
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,22): error C3531: w: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,31): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,35): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,30): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,28): error C2530: lastWord: ссылки должны быть инициализированы
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,5): error C3861: transform: идентификатор не найден
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,38): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,50): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,26): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,22): error C2530: w: ссылки должны быть инициализированы
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,22): error C3531: w: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,31): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62,38): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62,50): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(63,9): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,62): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,72): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,34): error C2660: findShortestCommonSubstring: функция не принимает 1 аргументов
+      D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50,8):
+       см. объявление "findShortestCommonSubstring"
+      D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,34):
+      при попытке сопоставить список аргументов "()"
+  
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(74,19): error C2079: "stream" использует не имеющую определения структуру class "std::basic_istringstream<char,std::char_traits<char>,std::allocator<char>>"
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(74,25): error C2440: инициализация: невозможно преобразовать "std::string" в "int"
+      D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(74,25):
+      Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(75,5): error C2065: vector: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(75,12): error C2275: "std::string": ожидается выражение вместо типа
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(75,20): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,19): error C2677: бинарный ">>": не найден глобальный оператор, принимающий тип "std::string" (или приемлемое преобразование отсутствует)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(907,9):
+      может быть "_Istr &&std::operator >>(_Istr &&,_Ty &&)"
+          D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,12):
+          "_Istr &&std::operator >>(_Istr &&,_Ty &&)": не удается вывести аргумент шаблон для "__formal"
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(906,102):
+              "<template-parameter>": невозможно создать указатель на ссылку
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(894,31):
+      или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)"
+          D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,12):
+          'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)': не удалось вывести аргумент шаблон для 'std::basic_istream<char,_Traits> &' из 'int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(888,31):
+      или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)"
+          D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,12):
+          'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)': не удалось вывести аргумент шаблон для 'std::basic_istream<char,_Traits> &' из 'int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(865,32):
+      или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)"
+          D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,12):
+          'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)': не удалось вывести аргумент шаблон для 'std::basic_istream<_Elem,_Traits> &' из 'int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(859,31):
+      или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)"
+          D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,12):
+          'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)': не удалось вывести аргумент шаблон для 'std::basic_istream<char,_Traits> &' из 'int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(854,31):
+      или       "std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)"
+          D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,12):
+          'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)': не удалось вывести аргумент шаблон для 'std::basic_istream<char,_Traits> &' из 'int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(849,32):
+      или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)"
+          D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,12):
+          'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)': не удалось вывести аргумент шаблон для 'std::basic_istream<_Elem,_Traits> &' из 'int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(3371,32):
+      или       "std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)"
+          D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,12):
+          'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'std::basic_istream<_Elem,_Traits> &' из 'int'
+  
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(79,9): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(82,9): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(87,29): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(88,28): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,22): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,37): error C2065: words: необъявленный идентификатор
+D:\c++ projekt\laba 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(95,37): error C2065: words: необъявленный идентификатор
